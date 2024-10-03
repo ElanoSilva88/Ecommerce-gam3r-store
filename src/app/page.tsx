@@ -1,5 +1,5 @@
 import ProdutoItem from '@/components/produto/ProdutoItem'
-import { produtos } from '@/core'no
+import { produtos } from '@/core'
 
 export default function Inicio() {
     return (
